@@ -9,14 +9,14 @@
 
 /* Estilos generales */
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', system-ui;
   margin: 0;
   background-color: #f1f1f1;
   min-width: 270px;
 
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Fjalla One', system-ui;
   font-weight: normal;
 }
 h1 {
@@ -221,7 +221,7 @@ figure {
 }
 .event-title {
   font-size: 1.5em;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Fjalla One', system-ui;
   color: white;
   letter-spacing: 0;
   margin: 0;
